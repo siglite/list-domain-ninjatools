@@ -52,11 +52,11 @@ hp   = http_stream("https://www.ninja.co.jp/hp/selectable-domain")
 blog = http_stream("https://www.ninja.co.jp/blog/selectable-domain")
 
 File.open("ninja_hp.md", "w") do |f|
-  f.write "# 忍者ホームページ - 文字数順ドメインリスト"
-  f.write parse_domain(hp, "td", regex)
+  f.write "# 忍者ホームページ - 文字数順ドメインリスト\n"
+  f.write generate_table(parse_domain(hp, "td", regex))
 end
 
 File.open("ninja_blog.md", "w") do |f|
-  f.write "# 忍者ブログ - 文字数順ドメインリスト"
-  f.write parse_domain(blog, "td", regex)
+  f.write "# 忍者ブログ - 文字数順ドメインリスト\n"
+  f.write generate_table(parse_domain(blog, "td", regex))
 end

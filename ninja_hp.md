@@ -1,1 +1,410 @@
-# 忍者ホームページ - 文字数順ドメインリスト[#<struct Domain name="masa-mune.jp", length=12, comment="伊達政宗">, #<struct Domain name="sa-suke.com", length=11, comment="猿飛佐助">, #<struct Domain name="kiyo-masa.com", length=13, comment="加藤清正">, #<struct Domain name="mu-sashi.com", length=12, comment="宮本武蔵">, #<struct Domain name="kan-be.com", length=10, comment="黒田官兵衛">, #<struct Domain name="yoshi-moto.com", length=14, comment="今川義元">, #<struct Domain name="shikanosuke.net", length=15, comment="山中鹿之介">, #<struct Domain name="kan-suke.com", length=12, comment="山本勘助">, #<struct Domain name="katsu-ie.com", length=12, comment="柴田勝家">, #<struct Domain name="taka-kage.com", length=13, comment="小早川隆景">, #<struct Domain name="hisa-hide.com", length=13, comment="松永久秀">, #<struct Domain name="ken-shin.net", length=12, comment="上杉謙信">, #<struct Domain name="nobu-naga.net", length=13, comment="織田信長">, #<struct Domain name="ran-maru.net", length=12, comment="森蘭丸">, #<struct Domain name="yuki-mura.net", length=13, comment="真田幸村">, #<struct Domain name="mitsu-nari.com", length=14, comment="石田三成">, #<struct Domain name="naga-masa.com", length=13, comment="浅井長政">, #<struct Domain name="maeda-keiji.com", length=15, comment="前田慶次">, #<struct Domain name="toshi-ie.com", length=12, comment="前田利家">, #<struct Domain name="yoshi-tsugu.com", length=15, comment="大谷吉継">, #<struct Domain name="han-be.com", length=10, comment="竹中半兵衛">, #<struct Domain name="moto-chika.com", length=14, comment="長曾我部元親">, #<struct Domain name="kage-tora.com", length=13, comment="長尾景虎">, #<struct Domain name="kage-tsuna.com", length=14, comment="直江景綱">, #<struct Domain name="kane-tsugu.com", length=14, comment="直江兼続">, #<struct Domain name="sa-kon.net", length=10, comment="島左近">, #<struct Domain name="shimazu-yoshihiro.net", length=21, comment="島津義弘">, #<struct Domain name="ie-yasu.com", length=11, comment="徳川家康">, #<struct Domain name="nao-shige.com", length=13, comment="鍋島直茂">, #<struct Domain name="katsu-yori.com", length=14, comment="武田勝頼">, #<struct Domain name="shin-gen.jp", length=11, comment="武田信玄">, #<struct Domain name="fuma-kotaro.com", length=15, comment="風魔小太郎">, #<struct Domain name="kojyuro.com", length=11, comment="片倉小十郎">, #<struct Domain name="hide-yoshi.net", length=14, comment="豊臣秀吉">, #<struct Domain name="uji-masa.com", length=12, comment="北条氏政">, #<struct Domain name="ken-nyo.com", length=11, comment="本願寺顕如">, #<struct Domain name="tada-katsu.com", length=14, comment="本多忠勝">, #<struct Domain name="mitsu-hide.com", length=14, comment="明智光秀">, #<struct Domain name="moto-nari.com", length=13, comment="毛利元就">, #<struct Domain name="dousetsu.com", length=12, comment="立花道雪">, #<struct Domain name="ame-zaiku.com", length=13, comment="飴細工">, #<struct Domain name="ari-jigoku.com", length=14, comment="蟻地獄">, #<struct Domain name="bake-neko.net", length=13, comment="化け猫">, #<struct Domain name="bakufu.org", length=10, comment="幕府">, #<struct Domain name="biroudo.jp", length=10, comment="天鵞絨">, #<struct Domain name="butanishinju.com", length=16, comment="豚に真珠">, #<struct Domain name="chagasi.com", length=11, comment="茶菓子">, #<struct Domain name="chikouyore.com", length=14, comment="近う寄れ">, #<struct Domain name="chimanako.net", length=13, comment="血眼">, #<struct Domain name="choitoippuku.com", length=16, comment="ちょいと一服">, #<struct Domain name="chottu.net", length=10, comment="ちょっつ">, #<struct Domain name="dayuh.net", length=9, comment="太夫">, #<struct Domain name="dokkoisho.com", length=13, comment="どっこいしょ">, #<struct Domain name="dotera.net", length=10, comment="どてら">, #<struct Domain name="doumeki.com", length=11, comment="百目鬼">, #<struct Domain name="edo-jidai.com", length=13, comment="江戸時代">, #<struct Domain name="ehoh.net", length=8, comment="恵方">, #<struct Domain name="futene.net", length=10, comment="ふてね">, #<struct Domain name="ganriki.net", length=11, comment="眼力">, #<struct Domain name="gionsyouja.com", length=14, comment="祇園精舎">, #<struct Domain name="gosyuugi.com", length=12, comment="ご祝儀">, #<struct Domain name="hanabie.com", length=11, comment="花冷え">, #<struct Domain name="hanagasumi.net", length=14, comment="花霞">, #<struct Domain name="hannnari.com", length=12, comment="はんなり">, #<struct Domain name="hiroimon.com", length=12, comment="ひろいもん">, #<struct Domain name="hisyaku.com", length=11, comment="柄杓">, #<struct Domain name="horemitakotoka.com", length=18, comment="ホレ見たことか">, #<struct Domain name="houkou-onchi.com", length=16, comment="方向音痴">, #<struct Domain name="ho-zuki.com", length=11, comment="ほおずき">, #<struct Domain name="ichiya-boshi.net", length=16, comment="一夜干し">, #<struct Domain name="iinaa.net", length=9, comment="いいなー">, #<struct Domain name="iiyudana.net", length=12, comment="いい湯だな">, #<struct Domain name="ikidane.com", length=11, comment="粋だね！">, #<struct Domain name="imawamukashi.com", length=16, comment="今は昔">, #<struct Domain name="imodurushiki.com", length=16, comment="芋づる式">, #<struct Domain name="ina-ka.com", length=10, comment="否か！（田舎でも良し）">, #<struct Domain name="is-mine.net", length=11, comment="～は俺のもの">, #<struct Domain name="iza-yoi.net", length=11, comment="十六夜">, #<struct Domain name="jyoukamachi.com", length=15, comment="城下町">, #<struct Domain name="kacchaokkana.com", length=16, comment="買っちゃおーかなー">, #<struct Domain name="kachoufuugetu.net", length=17, comment="花鳥風月">, #<struct Domain name="kagechiyo.net", length=13, comment="影千代">, #<struct Domain name="kakukaku-sikajika.com", length=21, comment="斯く斯く然々">, #<struct Domain name="kasabuta.net", length=12, comment="瘡蓋">, #<struct Domain name="kasajizo.com", length=12, comment="笠地蔵">, #<struct Domain name="kenkenpa.net", length=12, comment="けんけんぱ">, #<struct Domain name="kesagiri.net", length=12, comment="袈裟切り">, #<struct Domain name="kibisuwokaesu.com", length=17, comment="踵を返す">, #<struct Domain name="kinbyoubu.com", length=13, comment="金屏風">, #<struct Domain name="kinugoshi.net", length=13, comment="絹ごし">, #<struct Domain name="koborezakura.com", length=16, comment="零れ桜">, #<struct Domain name="konjiki.jp", length=10, comment="金色">, #<struct Domain name="maiougi.com", length=11, comment="舞扇">, #<struct Domain name="ma-jide.com", length=11, comment="マージで">, #<struct Domain name="makibisi.net", length=12, comment="まきびし">, #<struct Domain name="mameshibori.net", length=15, comment="豆絞り">, #<struct Domain name="manjushage.com", length=14, comment="曼珠沙華">, #<struct Domain name="mitarashidango.com", length=18, comment="みたらしダンゴ">, #<struct Domain name="mizusasi.net", length=12, comment="水差し">, #<struct Domain name="monogoshi.com", length=13, comment="物腰">, #<struct Domain name="moraimon.com", length=12, comment="もらいもん">, #<struct Domain name="moutounai.com", length=13, comment="毛頭ない">, #<struct Domain name="nagesen.net", length=11, comment="投げ銭">, #<struct Domain name="nekonikoban.org", length=15, comment="猫に小判">, #<struct Domain name="nemachinotsuki.com", length=18, comment="寝待の月">, #<struct Domain name="nemiminimizu.com", length=16, comment="寝耳に水">, #<struct Domain name="nigamushi.net", length=13, comment="苦虫">, #<struct Domain name="ninja-web.net", length=13, comment="忍者WEB">, #<struct Domain name="noppikinaranu.com", length=17, comment="のっぴきならぬ">, #<struct Domain name="nukarumi.net", length=12, comment="泥濘">, #<struct Domain name="obihimo.com", length=11, comment="帯紐">, #<struct Domain name="obijime.net", length=11, comment="帯締め">, #<struct Domain name="odaikansama.com", length=15, comment="お代官様">, #<struct Domain name="ofuregaki.com", length=13, comment="お触書">, #<struct Domain name="ohitashi.com", length=12, comment="おひたし">, #<struct Domain name="ohyakudo-mairi.com", length=18, comment="お百度参り">, #<struct Domain name="oiran.org", length=9, comment="花魁">, #<struct Domain name="okoshi-yasu.net", length=15, comment="おこしやす">, #<struct Domain name="okunohosomichi.net", length=18, comment="奥の細道">, #<struct Domain name="omegumi.com", length=11, comment="お恵み">, #<struct Domain name="onasake.com", length=11, comment="お情け">, #<struct Domain name="ongaeshi.biz", length=12, comment="恩返し">, #<struct Domain name="onushimowaruyonou.com", length=21, comment="おぬしも悪よのう">, #<struct Domain name="ooban-koban.com", length=15, comment="大判小判">, #<struct Domain name="oteage.net", length=10, comment="お手上げ">, #<struct Domain name="otodo.net", length=9, comment="大臣（おとど）">, #<struct Domain name="sannasubi.com", length=13, comment="三なすび">, #<struct Domain name="sara-yashiki.com", length=16, comment="皿屋敷">, #<struct Domain name="sengoku-jidai.com", length=17, comment="戦国時代">, #<struct Domain name="sensyuuraku.com", length=15, comment="千秋楽">, #<struct Domain name="sessya.net", length=10, comment="拙者">, #<struct Domain name="shakunage.net", length=13, comment="しゃくなげ">, #<struct Domain name="shikisokuzekuu.net", length=18, comment="色即是空">, #<struct Domain name="shime-saba.com", length=14, comment="しめさば">, #<struct Domain name="shimo-yake.com", length=14, comment="霜焼け">, #<struct Domain name="shirikakusazu.com", length=17, comment="尻隠さず">, #<struct Domain name="shironuri.com", length=13, comment="白塗">, #<struct Domain name="shisyou.com", length=11, comment="師匠">, #<struct Domain name="shiteyattari.com", length=16, comment="してやったり">, #<struct Domain name="siromuku.com", length=12, comment="白無垢">, #<struct Domain name="sokushinbutsu.com", length=17, comment="即身仏">, #<struct Domain name="soragoto.net", length=12, comment="空言">, #<struct Domain name="soudesune.net", length=13, comment="そうですねー">, #<struct Domain name="suki-ari.net", length=12, comment="隙あり">, #<struct Domain name="sukimakaze.com", length=14, comment="隙間風">, #<struct Domain name="syarasoujyu.com", length=15, comment="沙羅双樹">, #<struct Domain name="syogyoumujou.com", length=16, comment="諸行無常">, #<struct Domain name="takara-bune.net", length=15, comment="宝船">, #<struct Domain name="tenohiragaeshi.com", length=18, comment="手のひら返し">, #<struct Domain name="tobiiro.jp", length=10, comment="鳶色">, #<struct Domain name="tyanoyu.net", length=11, comment="茶の湯">, #<struct Domain name="tyonmage.com", length=12, comment="ちょんまげ">, #<struct Domain name="ukime.org", length=9, comment="憂き目">, #<struct Domain name="undeinosa.com", length=13, comment="雲泥の差">, #<struct Domain name="untokosho.com", length=13, comment="うんとこしょ">, #<struct Domain name="usunuri.com", length=11, comment="薄塗">, #<struct Domain name="uunyan.com", length=10, comment="ううにゃん">, #<struct Domain name="warabimochi.net", length=15, comment="蕨餅">, #<struct Domain name="warabuki.net", length=12, comment="藁葺">, #<struct Domain name="waremowaremoto.com", length=18, comment="我も我れもと">, #<struct Domain name="wa-sanbon.com", length=13, comment="和三盆">, #<struct Domain name="yahansugi.com", length=13, comment="夜半過ぎ">, #<struct Domain name="yakiin.net", length=10, comment="焼印">, #<struct Domain name="yangotonaki.com", length=15, comment="やんごとなき">, #<struct Domain name="yohamanzokuja.com", length=17, comment="余は満足じゃ">, #<struct Domain name="yokochou.com", length=12, comment="横丁">, #<struct Domain name="yomibitoshirazu.com", length=19, comment="詠み人知らず">, #<struct Domain name="yukimizake.net", length=14, comment="雪見酒">, #<struct Domain name="yumenogotoshi.com", length=17, comment="夢の如し">, #<struct Domain name="zatunen.com", length=11, comment="雑念">, #<struct Domain name="tuzikaze.com", length=12, comment="旋風">, #<struct Domain name="yu-yake.com", length=11, comment="夕焼け">, #<struct Domain name="choumusubi.com", length=14, comment="蝶結び">, #<struct Domain name="yokinihakarae.com", length=17, comment="良きに計らえ">, #<struct Domain name="kagebo-shi.com", length=14, comment="影法師">, #<struct Domain name="iaigiri.com", length=11, comment="居合斬り">, #<struct Domain name="gouketu.com", length=11, comment="豪傑">, #<struct Domain name="kumadori.com", length=12, comment="暈取">, #<struct Domain name="michikusa.jp", length=12, comment="道草">, #<struct Domain name="syoutikubai.com", length=15, comment="松竹梅">, #<struct Domain name="hatiju-hatiya.com", length=17, comment="八十八夜">, #<struct Domain name="oboroduki.com", length=13, comment="朧月">, #<struct Domain name="tamajiri.com", length=12, comment="霊識">, #<struct Domain name="cyber-ninja.jp", length=14, comment="平成忍者">, #<struct Domain name="gozaru.jp", length=9, comment="御座る">, #<struct Domain name="ohugi.com", length=9, comment="御不義">, #<struct Domain name="rakugan.com", length=11, comment="落雁">, #<struct Domain name="tsunokakushi.com", length=16, comment="角隠し">, #<struct Domain name="suppa.jp", length=8, comment="素っ破">, #<struct Domain name="tonosama.jp", length=11, comment="殿様">, #<struct Domain name="karou.jp", length=8, comment="家老">, #<struct Domain name="cho-chin.com", length=12, comment="提灯">, #<struct Domain name="shidareyanagi.com", length=17, comment="枝垂れ柳">, #<struct Domain name="yaekumo.com", length=11, comment="八重雲">, #<struct Domain name="nobody.jp", length=9, comment="無名の人">, #<struct Domain name="konohashigure.com", length=17, comment="木の葉時雨">, #<struct Domain name="yamanoha.com", length=12, comment="山の端">, #<struct Domain name="ohaguro.com", length=11, comment="お歯黒">, #<struct Domain name="makibishi.jp", length=12, comment="撒き菱">, #<struct Domain name="turubeotoshi.com", length=16, comment="釣瓶落し">, #<struct Domain name="nabebugyou.com", length=14, comment="鍋奉行">, #<struct Domain name="amigasa.jp", length=10, comment="編笠">, #<struct Domain name="atukan.com", length=10, comment="熱燗">, #<struct Domain name="chakin.com", length=10, comment="茶巾">, #<struct Domain name="ikaduchi.com", length=12, comment="雷">, #<struct Domain name="ninpou.jp", length=9, comment="忍法">, #<struct Domain name="yakigote.com", length=12, comment="焼鏝">, #<struct Domain name="tsuchigumo.com", length=14, comment="土蜘蛛">, #<struct Domain name="gamagaeru.jp", length=12, comment="蝦蟇">, #<struct Domain name="goemonburo.com", length=14, comment="五右衛門風呂">, #<struct Domain name="tumabeni.com", length=12, comment="爪紅">, #<struct Domain name="higoyomi.com", length=12, comment="日暦">, #<struct Domain name="komusou.jp", length=10, comment="虚無僧">, #<struct Domain name="obunko.com", length=10, comment="御文庫">, #<struct Domain name="tyabo.com", length=9, comment="矮鶏">, #<struct Domain name="momijioroshi.com", length=16, comment="紅葉卸">, #<struct Domain name="gejigeji.jp", length=11, comment="蚰蜒">, #<struct Domain name="kemuridama.com", length=14, comment="煙玉">, #<struct Domain name="mikosi.com", length=10, comment="御輿">, #<struct Domain name="tutakazura.com", length=14, comment="蔦葛">, #<struct Domain name="hanamizake.com", length=14, comment="花見酒">, #<struct Domain name="darumaotosi.com", length=15, comment="達磨落し">, #<struct Domain name="kyarame.com", length=11, comment="伽羅女">, #<struct Domain name="hishaku.com", length=11, comment="柄杓">, #<struct Domain name="kirisute-gomen.com", length=18, comment="斬捨て御免">, #<struct Domain name="wakatono.jp", length=11, comment="若殿">, #<struct Domain name="hariko.com", length=10, comment="張子">, #<struct Domain name="tuzigiri.com", length=12, comment="辻斬">, #<struct Domain name="karakuri-yashiki.com", length=20, comment="絡繰り屋敷">, #<struct Domain name="osonae.com", length=10, comment="御供え">, #<struct Domain name="syanari.com", length=11, comment="しゃなり">, #<struct Domain name="chitosedori.com", length=15, comment="千歳鳥">, #<struct Domain name="mukade.jp", length=9, comment="蜈蚣">, #<struct Domain name="hahaue.com", length=10, comment="母上">, #<struct Domain name="ninja-mania.jp", length=14, comment="忍者愛好家">, #<struct Domain name="genin.jp", length=8, comment="下忍">, #<struct Domain name="kurushiunai.jp", length=14, comment="苦しうない">, #<struct Domain name="hujibakama.com", length=14, comment="藤袴">, #<struct Domain name="zashiki.com", length=11, comment="座敷">, #<struct Domain name="kusakage.com", length=12, comment="草陰">, #<struct Domain name="yukishigure.com", length=15, comment="雪時雨">, #<struct Domain name="xxxxxxxx.jp", length=11, comment="駄目駄目駄目駄目駄目">, #<struct Domain name="tirirenge.com", length=13, comment="散り蓮華">, #<struct Domain name="jounin.jp", length=9, comment="上忍">, #<struct Domain name="aikotoba.jp", length=11, comment="合言葉">, #<struct Domain name="shinobiashi.com", length=15, comment="忍び足">, #<struct Domain name="koiwazurai.com", length=14, comment="恋煩い">, #<struct Domain name="onmitsu.jp", length=10, comment="隠密">, #<struct Domain name="suichu-ka.com", length=13, comment="水中花">, #<struct Domain name="kimodameshi.com", length=15, comment="肝試し">, #<struct Domain name="yukigesho.com", length=13, comment="雪化粧">, #<struct Domain name="byoubu.com", length=10, comment="屏風">, #<struct Domain name="uijin.com", length=9, comment="初陣">, #<struct Domain name="tubakurame.com", length=14, comment="燕">, #<struct Domain name="jougennotuki.com", length=16, comment="上弦の月">, #<struct Domain name="zouri.jp", length=8, comment="草履">, #<struct Domain name="kuchinawa.com", length=13, comment="蛇">, #<struct Domain name="huruike.com", length=11, comment="古池">, #<struct Domain name="hanagumori.com", length=14, comment="花曇">, #<struct Domain name="karakasa.com", length=12, comment="唐傘">, #<struct Domain name="mizubasyou.com", length=14, comment="水芭蕉">, #<struct Domain name="soregashi.com", length=13, comment="某">, #<struct Domain name="enokorogusa.com", length=15, comment="狗尾草">, #<struct Domain name="hatagashira.com", length=15, comment="旗頭">, #<struct Domain name="yakiuchi.com", length=12, comment="焼討ち">, #<struct Domain name="hiyamugi.com", length=12, comment="冷麦">, #<struct Domain name="shiriagari.com", length=14, comment="尻上り">, #<struct Domain name="kutinawa.com", length=12, comment="朽縄">, #<struct Domain name="moryou.com", length=10, comment="魍魎">, #<struct Domain name="kagennotuki.com", length=15, comment="下弦の月">, #<struct Domain name="bokunenjin.com", length=14, comment="朴念仁">, #<struct Domain name="nengu.jp", length=8, comment="年貢">, #<struct Domain name="garyoutensei.com", length=16, comment="画竜点睛">, #<struct Domain name="tanmono.com", length=11, comment="反物">, #<struct Domain name="ifdef.jp", length=8, comment="定義済時">, #<struct Domain name="karamatu.com", length=12, comment="落葉松">, #<struct Domain name="sonnabakana.com", length=15, comment="そんな馬鹿な">, #<struct Domain name="ojaru.jp", length=8, comment="おじゃる">, #<struct Domain name="ebo-shi.com", length=11, comment="烏帽子">, #<struct Domain name="ootugomori.com", length=14, comment="大晦">, #<struct Domain name="kanpaku.jp", length=10, comment="関白">, #<struct Domain name="turukusa.com", length=12, comment="蔓草">, #<struct Domain name="husuma.com", length=10, comment="襖">, #<struct Domain name="nomaki.jp", length=9, comment="～の巻">, #<struct Domain name="kakurezato.com", length=14, comment="隠れ里">, #<struct Domain name="client.jp", length=9, comment="依頼人">, #<struct Domain name="okoshi-yasu.com", length=15, comment="お越しやす">, #<struct Domain name="omiki.com", length=9, comment="御神酒">, #<struct Domain name="kitunebi.com", length=12, comment="狐火">, #<struct Domain name="nukenin.jp", length=10, comment="抜忍">, #<struct Domain name="toumoku.com", length=11, comment="頭目">, #<struct Domain name="yamagomori.com", length=14, comment="山籠り">, #<struct Domain name="akazunoma.com", length=13, comment="開かずの間">, #<struct Domain name="tiyogami.com", length=12, comment="千代紙">, #<struct Domain name="tudura.com", length=10, comment="葛籠">, #<struct Domain name="ashigaru.jp", length=11, comment="足軽">, #<struct Domain name="shichihuku.com", length=14, comment="七福">, #<struct Domain name="inukubou.com", length=12, comment="犬公方">, #<struct Domain name="kaginawa.jp", length=11, comment="鍵縄">, #<struct Domain name="turigane.com", length=12, comment="釣鐘">, #<struct Domain name="at-ninja.jp", length=11, comment="＠忍者">, #<struct Domain name="tabigeinin.com", length=14, comment="旅芸人">, #<struct Domain name="huuryuu.com", length=11, comment="風流">, #<struct Domain name="buzama.com", length=10, comment="無様">, #<struct Domain name="harisen.jp", length=10, comment="張り扇">, #<struct Domain name="okitsune.com", length=12, comment="御狐">, #<struct Domain name="jorougumo.com", length=13, comment="女郎蜘蛛">, #<struct Domain name="otoshiana.com", length=13, comment="落し穴">, #<struct Domain name="kanashibari.jp", length=14, comment="金縛り">, #<struct Domain name="namidaame.com", length=13, comment="涙雨">, #<struct Domain name="bufsiz.jp", length=9, comment="大抵8,192">, #<struct Domain name="onushi.com", length=10, comment="御主">, #<struct Domain name="kusarikatabira.jp", length=17, comment="鎖帷子">, #<struct Domain name="sankinkoutai.com", length=16, comment="参勤交代">, #<struct Domain name="namekuji.jp", length=11, comment="蛞蝓">, #<struct Domain name="donburako.com", length=13, comment="ドンブラ粉">, #<struct Domain name="yukihotaru.com", length=14, comment="雪蛍">, #<struct Domain name="jakou.com", length=9, comment="麝香">, #<struct Domain name="nukimi.com", length=10, comment="抜身">, #<struct Domain name="o-oku.jp", length=8, comment="大奥">, #<struct Domain name="ohuda.com", length=9, comment="御札">, #<struct Domain name="goraikou.com", length=12, comment="御来光">, #<struct Domain name="kumogakure.com", length=14, comment="雲隠れ">, #<struct Domain name="gokenin.com", length=11, comment="御家人">, #<struct Domain name="izakamakura.com", length=15, comment="いざ鎌倉">, #<struct Domain name="otogirisou.com", length=14, comment="弟切草">, #<struct Domain name="syuriken.jp", length=11, comment="手裏剣">, #<struct Domain name="sodenoshita.com", length=15, comment="袖の下">, #<struct Domain name="sokowonantoka.com", length=17, comment="其処を何とか">, #<struct Domain name="sarashi.com", length=11, comment="晒">, #<struct Domain name="hagewasi.com", length=12, comment="禿鷲">, #<struct Domain name="himegimi.jp", length=11, comment="姫君">, #<struct Domain name="hebiichigo.com", length=14, comment="蛇苺">, #<struct Domain name="amearare.com", length=12, comment="雨霰">, #<struct Domain name="nusutto.jp", length=10, comment="盗人">, #<struct Domain name="syakuhati.com", length=13, comment="尺八">, #<struct Domain name="ninja-x.jp", length=10, comment="忍者駄目">, #<struct Domain name="ushimairi.com", length=13, comment="丑参り">, #<struct Domain name="yu-nagi.com", length=11, comment="夕凪">, #<struct Domain name="the-ninja.jp", length=12, comment="その忍者">]
+# 忍者ホームページ - 文字数順ドメインリスト
+## 8 character
+
+| domain | comment |
+|:-------|:--------|
+| ehoh.net | 恵方 |
+| genin.jp | 下忍 |
+| ifdef.jp | 定義済時 |
+| karou.jp | 家老 |
+| nengu.jp | 年貢 |
+| o-oku.jp | 大奥 |
+| ojaru.jp | おじゃる |
+| suppa.jp | 素っ破 |
+| zouri.jp | 草履 |
+
+## 9 character
+
+| domain | comment |
+|:-------|:--------|
+| bufsiz.jp | 大抵8,192 |
+| client.jp | 依頼人 |
+| dayuh.net | 太夫 |
+| gozaru.jp | 御座る |
+| iinaa.net | いいなー |
+| jakou.com | 麝香 |
+| jounin.jp | 上忍 |
+| mukade.jp | 蜈蚣 |
+| ninpou.jp | 忍法 |
+| nobody.jp | 無名の人 |
+| nomaki.jp | ～の巻 |
+| ohuda.com | 御札 |
+| ohugi.com | 御不義 |
+| oiran.org | 花魁 |
+| omiki.com | 御神酒 |
+| otodo.net | 大臣（おとど） |
+| tyabo.com | 矮鶏 |
+| uijin.com | 初陣 |
+| ukime.org | 憂き目 |
+
+## 10 character
+
+| domain | comment |
+|:-------|:--------|
+| amigasa.jp | 編笠 |
+| atukan.com | 熱燗 |
+| bakufu.org | 幕府 |
+| biroudo.jp | 天鵞絨 |
+| buzama.com | 無様 |
+| byoubu.com | 屏風 |
+| chakin.com | 茶巾 |
+| chottu.net | ちょっつ |
+| dotera.net | どてら |
+| futene.net | ふてね |
+| hahaue.com | 母上 |
+| han-be.com | 竹中半兵衛 |
+| hariko.com | 張子 |
+| harisen.jp | 張り扇 |
+| husuma.com | 襖 |
+| ina-ka.com | 否か！（田舎でも良し） |
+| kan-be.com | 黒田官兵衛 |
+| kanpaku.jp | 関白 |
+| komusou.jp | 虚無僧 |
+| konjiki.jp | 金色 |
+| mikosi.com | 御輿 |
+| moryou.com | 魍魎 |
+| ninja-x.jp | 忍者駄目 |
+| nukenin.jp | 抜忍 |
+| nukimi.com | 抜身 |
+| nusutto.jp | 盗人 |
+| obunko.com | 御文庫 |
+| onmitsu.jp | 隠密 |
+| onushi.com | 御主 |
+| osonae.com | 御供え |
+| oteage.net | お手上げ |
+| sa-kon.net | 島左近 |
+| sessya.net | 拙者 |
+| tobiiro.jp | 鳶色 |
+| tudura.com | 葛籠 |
+| uunyan.com | ううにゃん |
+| yakiin.net | 焼印 |
+
+## 11 character
+
+| domain | comment |
+|:-------|:--------|
+| aikotoba.jp | 合言葉 |
+| ashigaru.jp | 足軽 |
+| at-ninja.jp | ＠忍者 |
+| chagasi.com | 茶菓子 |
+| doumeki.com | 百目鬼 |
+| ebo-shi.com | 烏帽子 |
+| ganriki.net | 眼力 |
+| gejigeji.jp | 蚰蜒 |
+| gokenin.com | 御家人 |
+| gouketu.com | 豪傑 |
+| hanabie.com | 花冷え |
+| himegimi.jp | 姫君 |
+| hishaku.com | 柄杓 |
+| hisyaku.com | 柄杓 |
+| ho-zuki.com | ほおずき |
+| huruike.com | 古池 |
+| huuryuu.com | 風流 |
+| iaigiri.com | 居合斬り |
+| ie-yasu.com | 徳川家康 |
+| ikidane.com | 粋だね！ |
+| is-mine.net | ～は俺のもの |
+| iza-yoi.net | 十六夜 |
+| kaginawa.jp | 鍵縄 |
+| ken-nyo.com | 本願寺顕如 |
+| kojyuro.com | 片倉小十郎 |
+| kyarame.com | 伽羅女 |
+| ma-jide.com | マージで |
+| maiougi.com | 舞扇 |
+| nagesen.net | 投げ銭 |
+| namekuji.jp | 蛞蝓 |
+| obihimo.com | 帯紐 |
+| obijime.net | 帯締め |
+| ohaguro.com | お歯黒 |
+| omegumi.com | お恵み |
+| onasake.com | お情け |
+| rakugan.com | 落雁 |
+| sa-suke.com | 猿飛佐助 |
+| sarashi.com | 晒 |
+| shin-gen.jp | 武田信玄 |
+| shisyou.com | 師匠 |
+| syanari.com | しゃなり |
+| syuriken.jp | 手裏剣 |
+| tanmono.com | 反物 |
+| tonosama.jp | 殿様 |
+| toumoku.com | 頭目 |
+| tyanoyu.net | 茶の湯 |
+| usunuri.com | 薄塗 |
+| wakatono.jp | 若殿 |
+| xxxxxxxx.jp | 駄目駄目駄目駄目駄目 |
+| yaekumo.com | 八重雲 |
+| yu-nagi.com | 夕凪 |
+| yu-yake.com | 夕焼け |
+| zashiki.com | 座敷 |
+| zatunen.com | 雑念 |
+
+## 12 character
+
+| domain | comment |
+|:-------|:--------|
+| amearare.com | 雨霰 |
+| cho-chin.com | 提灯 |
+| dousetsu.com | 立花道雪 |
+| gamagaeru.jp | 蝦蟇 |
+| goraikou.com | 御来光 |
+| gosyuugi.com | ご祝儀 |
+| hagewasi.com | 禿鷲 |
+| hannnari.com | はんなり |
+| higoyomi.com | 日暦 |
+| hiroimon.com | ひろいもん |
+| hiyamugi.com | 冷麦 |
+| iiyudana.net | いい湯だな |
+| ikaduchi.com | 雷 |
+| inukubou.com | 犬公方 |
+| kan-suke.com | 山本勘助 |
+| karakasa.com | 唐傘 |
+| karamatu.com | 落葉松 |
+| kasabuta.net | 瘡蓋 |
+| kasajizo.com | 笠地蔵 |
+| katsu-ie.com | 柴田勝家 |
+| ken-shin.net | 上杉謙信 |
+| kenkenpa.net | けんけんぱ |
+| kesagiri.net | 袈裟切り |
+| kitunebi.com | 狐火 |
+| kumadori.com | 暈取 |
+| kusakage.com | 草陰 |
+| kutinawa.com | 朽縄 |
+| makibishi.jp | 撒き菱 |
+| makibisi.net | まきびし |
+| masa-mune.jp | 伊達政宗 |
+| michikusa.jp | 道草 |
+| mizusasi.net | 水差し |
+| moraimon.com | もらいもん |
+| mu-sashi.com | 宮本武蔵 |
+| nukarumi.net | 泥濘 |
+| ohitashi.com | おひたし |
+| okitsune.com | 御狐 |
+| ongaeshi.biz | 恩返し |
+| ran-maru.net | 森蘭丸 |
+| siromuku.com | 白無垢 |
+| soragoto.net | 空言 |
+| suki-ari.net | 隙あり |
+| tamajiri.com | 霊識 |
+| the-ninja.jp | その忍者 |
+| tiyogami.com | 千代紙 |
+| toshi-ie.com | 前田利家 |
+| tumabeni.com | 爪紅 |
+| turigane.com | 釣鐘 |
+| turukusa.com | 蔓草 |
+| tuzigiri.com | 辻斬 |
+| tuzikaze.com | 旋風 |
+| tyonmage.com | ちょんまげ |
+| uji-masa.com | 北条氏政 |
+| warabuki.net | 藁葺 |
+| yakigote.com | 焼鏝 |
+| yakiuchi.com | 焼討ち |
+| yamanoha.com | 山の端 |
+| yokochou.com | 横丁 |
+
+## 13 character
+
+| domain | comment |
+|:-------|:--------|
+| akazunoma.com | 開かずの間 |
+| ame-zaiku.com | 飴細工 |
+| bake-neko.net | 化け猫 |
+| chimanako.net | 血眼 |
+| dokkoisho.com | どっこいしょ |
+| donburako.com | ドンブラ粉 |
+| edo-jidai.com | 江戸時代 |
+| hisa-hide.com | 松永久秀 |
+| jorougumo.com | 女郎蜘蛛 |
+| kage-tora.com | 長尾景虎 |
+| kagechiyo.net | 影千代 |
+| kinbyoubu.com | 金屏風 |
+| kinugoshi.net | 絹ごし |
+| kiyo-masa.com | 加藤清正 |
+| kuchinawa.com | 蛇 |
+| monogoshi.com | 物腰 |
+| moto-nari.com | 毛利元就 |
+| moutounai.com | 毛頭ない |
+| naga-masa.com | 浅井長政 |
+| namidaame.com | 涙雨 |
+| nao-shige.com | 鍋島直茂 |
+| nigamushi.net | 苦虫 |
+| ninja-web.net | 忍者WEB |
+| nobu-naga.net | 織田信長 |
+| oboroduki.com | 朧月 |
+| ofuregaki.com | お触書 |
+| otoshiana.com | 落し穴 |
+| sannasubi.com | 三なすび |
+| shakunage.net | しゃくなげ |
+| shironuri.com | 白塗 |
+| soregashi.com | 某 |
+| soudesune.net | そうですねー |
+| suichu-ka.com | 水中花 |
+| syakuhati.com | 尺八 |
+| taka-kage.com | 小早川隆景 |
+| tirirenge.com | 散り蓮華 |
+| undeinosa.com | 雲泥の差 |
+| untokosho.com | うんとこしょ |
+| ushimairi.com | 丑参り |
+| wa-sanbon.com | 和三盆 |
+| yahansugi.com | 夜半過ぎ |
+| yuki-mura.net | 真田幸村 |
+| yukigesho.com | 雪化粧 |
+
+## 14 character
+
+| domain | comment |
+|:-------|:--------|
+| ari-jigoku.com | 蟻地獄 |
+| bokunenjin.com | 朴念仁 |
+| chikouyore.com | 近う寄れ |
+| choumusubi.com | 蝶結び |
+| cyber-ninja.jp | 平成忍者 |
+| gionsyouja.com | 祇園精舎 |
+| goemonburo.com | 五右衛門風呂 |
+| hanagasumi.net | 花霞 |
+| hanagumori.com | 花曇 |
+| hanamizake.com | 花見酒 |
+| hebiichigo.com | 蛇苺 |
+| hide-yoshi.net | 豊臣秀吉 |
+| hujibakama.com | 藤袴 |
+| kage-tsuna.com | 直江景綱 |
+| kagebo-shi.com | 影法師 |
+| kakurezato.com | 隠れ里 |
+| kanashibari.jp | 金縛り |
+| kane-tsugu.com | 直江兼続 |
+| katsu-yori.com | 武田勝頼 |
+| kemuridama.com | 煙玉 |
+| koiwazurai.com | 恋煩い |
+| kumogakure.com | 雲隠れ |
+| kurushiunai.jp | 苦しうない |
+| manjushage.com | 曼珠沙華 |
+| mitsu-hide.com | 明智光秀 |
+| mitsu-nari.com | 石田三成 |
+| mizubasyou.com | 水芭蕉 |
+| moto-chika.com | 長曾我部元親 |
+| nabebugyou.com | 鍋奉行 |
+| ninja-mania.jp | 忍者愛好家 |
+| ootugomori.com | 大晦 |
+| otogirisou.com | 弟切草 |
+| shichihuku.com | 七福 |
+| shime-saba.com | しめさば |
+| shimo-yake.com | 霜焼け |
+| shiriagari.com | 尻上り |
+| sukimakaze.com | 隙間風 |
+| tabigeinin.com | 旅芸人 |
+| tada-katsu.com | 本多忠勝 |
+| tsuchigumo.com | 土蜘蛛 |
+| tubakurame.com | 燕 |
+| tutakazura.com | 蔦葛 |
+| yamagomori.com | 山籠り |
+| yoshi-moto.com | 今川義元 |
+| yukihotaru.com | 雪蛍 |
+| yukimizake.net | 雪見酒 |
+
+## 15 character
+
+| domain | comment |
+|:-------|:--------|
+| chitosedori.com | 千歳鳥 |
+| darumaotosi.com | 達磨落し |
+| enokorogusa.com | 狗尾草 |
+| fuma-kotaro.com | 風魔小太郎 |
+| hatagashira.com | 旗頭 |
+| izakamakura.com | いざ鎌倉 |
+| jyoukamachi.com | 城下町 |
+| kagennotuki.com | 下弦の月 |
+| kimodameshi.com | 肝試し |
+| maeda-keiji.com | 前田慶次 |
+| mameshibori.net | 豆絞り |
+| nekonikoban.org | 猫に小判 |
+| odaikansama.com | お代官様 |
+| okoshi-yasu.com | お越しやす |
+| okoshi-yasu.net | おこしやす |
+| ooban-koban.com | 大判小判 |
+| sensyuuraku.com | 千秋楽 |
+| shikanosuke.net | 山中鹿之介 |
+| shinobiashi.com | 忍び足 |
+| sodenoshita.com | 袖の下 |
+| sonnabakana.com | そんな馬鹿な |
+| syarasoujyu.com | 沙羅双樹 |
+| syoutikubai.com | 松竹梅 |
+| takara-bune.net | 宝船 |
+| warabimochi.net | 蕨餅 |
+| yangotonaki.com | やんごとなき |
+| yoshi-tsugu.com | 大谷吉継 |
+| yukishigure.com | 雪時雨 |
+
+## 16 character
+
+| domain | comment |
+|:-------|:--------|
+| butanishinju.com | 豚に真珠 |
+| choitoippuku.com | ちょいと一服 |
+| garyoutensei.com | 画竜点睛 |
+| houkou-onchi.com | 方向音痴 |
+| ichiya-boshi.net | 一夜干し |
+| imawamukashi.com | 今は昔 |
+| imodurushiki.com | 芋づる式 |
+| jougennotuki.com | 上弦の月 |
+| kacchaokkana.com | 買っちゃおーかなー |
+| koborezakura.com | 零れ桜 |
+| momijioroshi.com | 紅葉卸 |
+| nemiminimizu.com | 寝耳に水 |
+| sankinkoutai.com | 参勤交代 |
+| sara-yashiki.com | 皿屋敷 |
+| shiteyattari.com | してやったり |
+| syogyoumujou.com | 諸行無常 |
+| tsunokakushi.com | 角隠し |
+| turubeotoshi.com | 釣瓶落し |
+
+## 17 character
+
+| domain | comment |
+|:-------|:--------|
+| hatiju-hatiya.com | 八十八夜 |
+| kachoufuugetu.net | 花鳥風月 |
+| kibisuwokaesu.com | 踵を返す |
+| konohashigure.com | 木の葉時雨 |
+| kusarikatabira.jp | 鎖帷子 |
+| noppikinaranu.com | のっぴきならぬ |
+| sengoku-jidai.com | 戦国時代 |
+| shidareyanagi.com | 枝垂れ柳 |
+| shirikakusazu.com | 尻隠さず |
+| sokowonantoka.com | 其処を何とか |
+| sokushinbutsu.com | 即身仏 |
+| yohamanzokuja.com | 余は満足じゃ |
+| yokinihakarae.com | 良きに計らえ |
+| yumenogotoshi.com | 夢の如し |
+
+## 18 character
+
+| domain | comment |
+|:-------|:--------|
+| horemitakotoka.com | ホレ見たことか |
+| kirisute-gomen.com | 斬捨て御免 |
+| mitarashidango.com | みたらしダンゴ |
+| nemachinotsuki.com | 寝待の月 |
+| ohyakudo-mairi.com | お百度参り |
+| okunohosomichi.net | 奥の細道 |
+| shikisokuzekuu.net | 色即是空 |
+| tenohiragaeshi.com | 手のひら返し |
+| waremowaremoto.com | 我も我れもと |
+
+## 19 character
+
+| domain | comment |
+|:-------|:--------|
+| yomibitoshirazu.com | 詠み人知らず |
+
+## 20 character
+
+| domain | comment |
+|:-------|:--------|
+| karakuri-yashiki.com | 絡繰り屋敷 |
+
+## 21 character
+
+| domain | comment |
+|:-------|:--------|
+| kakukaku-sikajika.com | 斯く斯く然々 |
+| onushimowaruyonou.com | おぬしも悪よのう |
+| shimazu-yoshihiro.net | 島津義弘 |
