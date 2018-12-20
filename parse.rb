@@ -41,7 +41,7 @@ def generate_table(domains)
 |:-------|:--------|
     EOS
 
-    s = dn.map { |e| "| #{e.name} | #{e.comment} |" }.join("\n")
+    s = dn.map { |e| "| `#{e.name}` | #{e.comment} |" }.join("\n")
 
     header + s + "\n"
   end.compact.join("\n")
