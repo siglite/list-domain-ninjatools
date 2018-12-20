@@ -34,8 +34,13 @@ def generate_table(domains)
     dn = domains.select { |e| e.length == n }.sort_by { |e| e.name }
     next if dn.length == 0
 
-    header = "## #{n} characters\n\n" 
-    s = dn.map { |e| "- `#{e.name}` （#{e.comment}）" }.join("\n")
+    header = <<-EOS
+## #{n} characters
+
+| domain | comment |
+|:------:|:--------|
+    EOS
+    s = dn.map { |e| "| `#{e.name}` | #{e.comment} |" }.join("\n")
 
     header + s + "\n"
   end.compact.join("\n")
