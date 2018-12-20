@@ -1,5 +1,5 @@
 # 忍者ホームページ - ドメインリスト
-## 8 character
+## 8 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -13,7 +13,7 @@
 | suppa.jp | 素っ破 |
 | zouri.jp | 草履 |
 
-## 9 character
+## 9 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -37,7 +37,7 @@
 | uijin.com | 初陣 |
 | ukime.org | 憂き目 |
 
-## 10 character
+## 10 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -79,7 +79,7 @@
 | uunyan.com | ううにゃん |
 | yakiin.net | 焼印 |
 
-## 11 character
+## 11 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -138,7 +138,7 @@
 | zashiki.com | 座敷 |
 | zatunen.com | 雑念 |
 
-## 12 character
+## 12 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -201,7 +201,7 @@
 | yamanoha.com | 山の端 |
 | yokochou.com | 横丁 |
 
-## 13 character
+## 13 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -249,7 +249,7 @@
 | yuki-mura.net | 真田幸村 |
 | yukigesho.com | 雪化粧 |
 
-## 14 character
+## 14 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -300,7 +300,7 @@
 | yukihotaru.com | 雪蛍 |
 | yukimizake.net | 雪見酒 |
 
-## 15 character
+## 15 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -333,7 +333,7 @@
 | yoshi-tsugu.com | 大谷吉継 |
 | yukishigure.com | 雪時雨 |
 
-## 16 character
+## 16 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -356,7 +356,7 @@
 | tsunokakushi.com | 角隠し |
 | turubeotoshi.com | 釣瓶落し |
 
-## 17 character
+## 17 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -375,7 +375,7 @@
 | yokinihakarae.com | 良きに計らえ |
 | yumenogotoshi.com | 夢の如し |
 
-## 18 character
+## 18 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -389,19 +389,19 @@
 | tenohiragaeshi.com | 手のひら返し |
 | waremowaremoto.com | 我も我れもと |
 
-## 19 character
+## 19 characters
 
 | domain | comment |
 |:-------|:--------|
 | yomibitoshirazu.com | 詠み人知らず |
 
-## 20 character
+## 20 characters
 
 | domain | comment |
 |:-------|:--------|
 | karakuri-yashiki.com | 絡繰り屋敷 |
 
-## 21 character
+## 21 characters
 
 | domain | comment |
 |:-------|:--------|

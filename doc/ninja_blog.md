@@ -1,5 +1,5 @@
 # 忍者ブログ - ドメインリスト
-## 8 character
+## 8 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -13,7 +13,7 @@
 | o-oi.net | おーおい （o-oi） |
 | tou3.com | とうさん |
 
-## 9 character
+## 9 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -29,14 +29,14 @@
 | syoyu.net | 醤油 |
 | v-kei.net | ヴィジュアル系 |
 
-## 10 character
+## 10 characters
 
 | domain | comment |
 |:-------|:--------|
 | bijual.com | ビジュアル |
 | ni-moe.com | 〜に萌え |
 
-## 11 character
+## 11 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -56,7 +56,7 @@
 | ryorika.com | 料理家 |
 | tosalog.com | 土佐ブログ |
 
-## 12 character
+## 12 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -79,7 +79,7 @@
 | take-uma.net | 竹馬 |
 | zoku-sei.com | 〜属性 |
 
-## 13 character
+## 13 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -94,7 +94,7 @@
 | wa-syo-ku.com | 和食 |
 | ya-gasuri.com | 矢絣 |
 
-## 14 character
+## 14 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -112,7 +112,7 @@
 | yamatoblog.net | 大和ブログ |
 | yotsumeyui.com | 四つ目結 |
 
-## 15 character
+## 15 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -126,7 +126,7 @@
 | satsumablog.com | 薩摩ブログ |
 | visualshoxx.net | ヴィジュアルショック |
 
-## 16 character
+## 16 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -135,7 +135,7 @@
 | futatsutomoe.com | 二つ巴・双級巴 |
 | kamakurablog.com | 鎌倉ブログ |
 
-## 17 character
+## 17 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -146,7 +146,7 @@
 | kagome-kagome.com | かごめかごめ |
 | manga-cosplay.com | 漫画のコスプレ |
 
-## 18 character
+## 18 characters
 
 | domain | comment |
 |:-------|:--------|
@@ -154,7 +154,7 @@
 | hyakunin-isshu.net | 百人一首 |
 | sekigaharablog.com | 関ヶ原ブログ |
 
-## 22 character
+## 22 characters
 
 | domain | comment |
 |:-------|:--------|

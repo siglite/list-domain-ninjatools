@@ -35,7 +35,7 @@ def generate_table(domains)
     next if dn.length == 0
 
     header = <<-EOS
-## #{n} character
+## #{n} characters
 
 | domain | comment |
 |:-------|:--------|
