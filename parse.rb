@@ -40,6 +40,7 @@ def generate_table(domains)
 | domain | comment |
 |:------:|:--------|
     EOS
+
     s = dn.map { |e| "| `#{e.name}` | #{e.comment} |" }.join("\n")
 
     header + s + "\n"
