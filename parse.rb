@@ -32,7 +32,7 @@ def generate_table(domains)
 
   (min..max).map do |n|
     dn = domains.select { |e| e.length == n }.sort_by { |e| e.name }
-    return if dn.length == 0
+    next if dn.length == 0
 
     header = <<-EOS
 ## #{n} character
@@ -51,12 +51,12 @@ regex  = /\A([\w\.-]+) ?（(.+)）\Z/
 hp   = http_stream("https://www.ninja.co.jp/hp/selectable-domain")
 blog = http_stream("https://www.ninja.co.jp/blog/selectable-domain")
 
-File.open("ninja_hp.md", "w") do |f|
-  f.write "# 忍者ホームページ - 文字数順ドメインリスト\n"
+File.open("doc/ninja_hp.md", "w") do |f|
+  f.write "# 忍者ホームページ - ドメインリスト\n"
   f.write generate_table(parse_domain(hp, "td", regex))
 end
 
-File.open("ninja_blog.md", "w") do |f|
-  f.write "# 忍者ブログ - 文字数順ドメインリスト\n"
+File.open("doc/ninja_blog.md", "w") do |f|
+  f.write "# 忍者ブログ - ドメインリスト\n"
   f.write generate_table(parse_domain(blog, "td", regex))
 end
