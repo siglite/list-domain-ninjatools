@@ -1,0 +1,1390 @@
+{
+  "8": [
+    {
+      "name": "ehoh.net",
+      "comment": "恵方"
+    },
+    {
+      "name": "genin.jp",
+      "comment": "下忍"
+    },
+    {
+      "name": "ifdef.jp",
+      "comment": "定義済時"
+    },
+    {
+      "name": "karou.jp",
+      "comment": "家老"
+    },
+    {
+      "name": "nengu.jp",
+      "comment": "年貢"
+    },
+    {
+      "name": "o-oku.jp",
+      "comment": "大奥"
+    },
+    {
+      "name": "ojaru.jp",
+      "comment": "おじゃる"
+    },
+    {
+      "name": "suppa.jp",
+      "comment": "素っ破"
+    },
+    {
+      "name": "zouri.jp",
+      "comment": "草履"
+    }
+  ],
+  "9": [
+    {
+      "name": "bufsiz.jp",
+      "comment": "大抵8,192"
+    },
+    {
+      "name": "client.jp",
+      "comment": "依頼人"
+    },
+    {
+      "name": "dayuh.net",
+      "comment": "太夫"
+    },
+    {
+      "name": "gozaru.jp",
+      "comment": "御座る"
+    },
+    {
+      "name": "iinaa.net",
+      "comment": "いいなー"
+    },
+    {
+      "name": "jakou.com",
+      "comment": "麝香"
+    },
+    {
+      "name": "jounin.jp",
+      "comment": "上忍"
+    },
+    {
+      "name": "mukade.jp",
+      "comment": "蜈蚣"
+    },
+    {
+      "name": "ninpou.jp",
+      "comment": "忍法"
+    },
+    {
+      "name": "nobody.jp",
+      "comment": "無名の人"
+    },
+    {
+      "name": "nomaki.jp",
+      "comment": "～の巻"
+    },
+    {
+      "name": "ohuda.com",
+      "comment": "御札"
+    },
+    {
+      "name": "ohugi.com",
+      "comment": "御不義"
+    },
+    {
+      "name": "oiran.org",
+      "comment": "花魁"
+    },
+    {
+      "name": "omiki.com",
+      "comment": "御神酒"
+    },
+    {
+      "name": "otodo.net",
+      "comment": "大臣（おとど）"
+    },
+    {
+      "name": "tyabo.com",
+      "comment": "矮鶏"
+    },
+    {
+      "name": "uijin.com",
+      "comment": "初陣"
+    },
+    {
+      "name": "ukime.org",
+      "comment": "憂き目"
+    }
+  ],
+  "10": [
+    {
+      "name": "amigasa.jp",
+      "comment": "編笠"
+    },
+    {
+      "name": "atukan.com",
+      "comment": "熱燗"
+    },
+    {
+      "name": "bakufu.org",
+      "comment": "幕府"
+    },
+    {
+      "name": "biroudo.jp",
+      "comment": "天鵞絨"
+    },
+    {
+      "name": "buzama.com",
+      "comment": "無様"
+    },
+    {
+      "name": "byoubu.com",
+      "comment": "屏風"
+    },
+    {
+      "name": "chakin.com",
+      "comment": "茶巾"
+    },
+    {
+      "name": "chottu.net",
+      "comment": "ちょっつ"
+    },
+    {
+      "name": "dotera.net",
+      "comment": "どてら"
+    },
+    {
+      "name": "futene.net",
+      "comment": "ふてね"
+    },
+    {
+      "name": "hahaue.com",
+      "comment": "母上"
+    },
+    {
+      "name": "han-be.com",
+      "comment": "竹中半兵衛"
+    },
+    {
+      "name": "hariko.com",
+      "comment": "張子"
+    },
+    {
+      "name": "harisen.jp",
+      "comment": "張り扇"
+    },
+    {
+      "name": "husuma.com",
+      "comment": "襖"
+    },
+    {
+      "name": "ina-ka.com",
+      "comment": "否か！（田舎でも良し）"
+    },
+    {
+      "name": "kan-be.com",
+      "comment": "黒田官兵衛"
+    },
+    {
+      "name": "kanpaku.jp",
+      "comment": "関白"
+    },
+    {
+      "name": "komusou.jp",
+      "comment": "虚無僧"
+    },
+    {
+      "name": "konjiki.jp",
+      "comment": "金色"
+    },
+    {
+      "name": "mikosi.com",
+      "comment": "御輿"
+    },
+    {
+      "name": "moryou.com",
+      "comment": "魍魎"
+    },
+    {
+      "name": "ninja-x.jp",
+      "comment": "忍者駄目"
+    },
+    {
+      "name": "nukenin.jp",
+      "comment": "抜忍"
+    },
+    {
+      "name": "nukimi.com",
+      "comment": "抜身"
+    },
+    {
+      "name": "nusutto.jp",
+      "comment": "盗人"
+    },
+    {
+      "name": "obunko.com",
+      "comment": "御文庫"
+    },
+    {
+      "name": "onmitsu.jp",
+      "comment": "隠密"
+    },
+    {
+      "name": "onushi.com",
+      "comment": "御主"
+    },
+    {
+      "name": "osonae.com",
+      "comment": "御供え"
+    },
+    {
+      "name": "oteage.net",
+      "comment": "お手上げ"
+    },
+    {
+      "name": "sa-kon.net",
+      "comment": "島左近"
+    },
+    {
+      "name": "sessya.net",
+      "comment": "拙者"
+    },
+    {
+      "name": "tobiiro.jp",
+      "comment": "鳶色"
+    },
+    {
+      "name": "tudura.com",
+      "comment": "葛籠"
+    },
+    {
+      "name": "uunyan.com",
+      "comment": "ううにゃん"
+    },
+    {
+      "name": "yakiin.net",
+      "comment": "焼印"
+    }
+  ],
+  "11": [
+    {
+      "name": "aikotoba.jp",
+      "comment": "合言葉"
+    },
+    {
+      "name": "ashigaru.jp",
+      "comment": "足軽"
+    },
+    {
+      "name": "at-ninja.jp",
+      "comment": "＠忍者"
+    },
+    {
+      "name": "chagasi.com",
+      "comment": "茶菓子"
+    },
+    {
+      "name": "doumeki.com",
+      "comment": "百目鬼"
+    },
+    {
+      "name": "ebo-shi.com",
+      "comment": "烏帽子"
+    },
+    {
+      "name": "ganriki.net",
+      "comment": "眼力"
+    },
+    {
+      "name": "gejigeji.jp",
+      "comment": "蚰蜒"
+    },
+    {
+      "name": "gokenin.com",
+      "comment": "御家人"
+    },
+    {
+      "name": "gouketu.com",
+      "comment": "豪傑"
+    },
+    {
+      "name": "hanabie.com",
+      "comment": "花冷え"
+    },
+    {
+      "name": "himegimi.jp",
+      "comment": "姫君"
+    },
+    {
+      "name": "hishaku.com",
+      "comment": "柄杓"
+    },
+    {
+      "name": "hisyaku.com",
+      "comment": "柄杓"
+    },
+    {
+      "name": "ho-zuki.com",
+      "comment": "ほおずき"
+    },
+    {
+      "name": "huruike.com",
+      "comment": "古池"
+    },
+    {
+      "name": "huuryuu.com",
+      "comment": "風流"
+    },
+    {
+      "name": "iaigiri.com",
+      "comment": "居合斬り"
+    },
+    {
+      "name": "ie-yasu.com",
+      "comment": "徳川家康"
+    },
+    {
+      "name": "ikidane.com",
+      "comment": "粋だね！"
+    },
+    {
+      "name": "is-mine.net",
+      "comment": "～は俺のもの"
+    },
+    {
+      "name": "iza-yoi.net",
+      "comment": "十六夜"
+    },
+    {
+      "name": "kaginawa.jp",
+      "comment": "鍵縄"
+    },
+    {
+      "name": "ken-nyo.com",
+      "comment": "本願寺顕如"
+    },
+    {
+      "name": "kojyuro.com",
+      "comment": "片倉小十郎"
+    },
+    {
+      "name": "kyarame.com",
+      "comment": "伽羅女"
+    },
+    {
+      "name": "ma-jide.com",
+      "comment": "マージで"
+    },
+    {
+      "name": "maiougi.com",
+      "comment": "舞扇"
+    },
+    {
+      "name": "nagesen.net",
+      "comment": "投げ銭"
+    },
+    {
+      "name": "namekuji.jp",
+      "comment": "蛞蝓"
+    },
+    {
+      "name": "obihimo.com",
+      "comment": "帯紐"
+    },
+    {
+      "name": "obijime.net",
+      "comment": "帯締め"
+    },
+    {
+      "name": "ohaguro.com",
+      "comment": "お歯黒"
+    },
+    {
+      "name": "omegumi.com",
+      "comment": "お恵み"
+    },
+    {
+      "name": "onasake.com",
+      "comment": "お情け"
+    },
+    {
+      "name": "rakugan.com",
+      "comment": "落雁"
+    },
+    {
+      "name": "sa-suke.com",
+      "comment": "猿飛佐助"
+    },
+    {
+      "name": "sarashi.com",
+      "comment": "晒"
+    },
+    {
+      "name": "shin-gen.jp",
+      "comment": "武田信玄"
+    },
+    {
+      "name": "shisyou.com",
+      "comment": "師匠"
+    },
+    {
+      "name": "syanari.com",
+      "comment": "しゃなり"
+    },
+    {
+      "name": "syuriken.jp",
+      "comment": "手裏剣"
+    },
+    {
+      "name": "tanmono.com",
+      "comment": "反物"
+    },
+    {
+      "name": "tonosama.jp",
+      "comment": "殿様"
+    },
+    {
+      "name": "toumoku.com",
+      "comment": "頭目"
+    },
+    {
+      "name": "tyanoyu.net",
+      "comment": "茶の湯"
+    },
+    {
+      "name": "usunuri.com",
+      "comment": "薄塗"
+    },
+    {
+      "name": "wakatono.jp",
+      "comment": "若殿"
+    },
+    {
+      "name": "xxxxxxxx.jp",
+      "comment": "駄目駄目駄目駄目駄目"
+    },
+    {
+      "name": "yaekumo.com",
+      "comment": "八重雲"
+    },
+    {
+      "name": "yu-nagi.com",
+      "comment": "夕凪"
+    },
+    {
+      "name": "yu-yake.com",
+      "comment": "夕焼け"
+    },
+    {
+      "name": "zashiki.com",
+      "comment": "座敷"
+    },
+    {
+      "name": "zatunen.com",
+      "comment": "雑念"
+    }
+  ],
+  "12": [
+    {
+      "name": "amearare.com",
+      "comment": "雨霰"
+    },
+    {
+      "name": "cho-chin.com",
+      "comment": "提灯"
+    },
+    {
+      "name": "dousetsu.com",
+      "comment": "立花道雪"
+    },
+    {
+      "name": "gamagaeru.jp",
+      "comment": "蝦蟇"
+    },
+    {
+      "name": "goraikou.com",
+      "comment": "御来光"
+    },
+    {
+      "name": "gosyuugi.com",
+      "comment": "ご祝儀"
+    },
+    {
+      "name": "hagewasi.com",
+      "comment": "禿鷲"
+    },
+    {
+      "name": "hannnari.com",
+      "comment": "はんなり"
+    },
+    {
+      "name": "higoyomi.com",
+      "comment": "日暦"
+    },
+    {
+      "name": "hiroimon.com",
+      "comment": "ひろいもん"
+    },
+    {
+      "name": "hiyamugi.com",
+      "comment": "冷麦"
+    },
+    {
+      "name": "iiyudana.net",
+      "comment": "いい湯だな"
+    },
+    {
+      "name": "ikaduchi.com",
+      "comment": "雷"
+    },
+    {
+      "name": "inukubou.com",
+      "comment": "犬公方"
+    },
+    {
+      "name": "kan-suke.com",
+      "comment": "山本勘助"
+    },
+    {
+      "name": "karakasa.com",
+      "comment": "唐傘"
+    },
+    {
+      "name": "karamatu.com",
+      "comment": "落葉松"
+    },
+    {
+      "name": "kasabuta.net",
+      "comment": "瘡蓋"
+    },
+    {
+      "name": "kasajizo.com",
+      "comment": "笠地蔵"
+    },
+    {
+      "name": "katsu-ie.com",
+      "comment": "柴田勝家"
+    },
+    {
+      "name": "ken-shin.net",
+      "comment": "上杉謙信"
+    },
+    {
+      "name": "kenkenpa.net",
+      "comment": "けんけんぱ"
+    },
+    {
+      "name": "kesagiri.net",
+      "comment": "袈裟切り"
+    },
+    {
+      "name": "kitunebi.com",
+      "comment": "狐火"
+    },
+    {
+      "name": "kumadori.com",
+      "comment": "暈取"
+    },
+    {
+      "name": "kusakage.com",
+      "comment": "草陰"
+    },
+    {
+      "name": "kutinawa.com",
+      "comment": "朽縄"
+    },
+    {
+      "name": "makibishi.jp",
+      "comment": "撒き菱"
+    },
+    {
+      "name": "makibisi.net",
+      "comment": "まきびし"
+    },
+    {
+      "name": "masa-mune.jp",
+      "comment": "伊達政宗"
+    },
+    {
+      "name": "michikusa.jp",
+      "comment": "道草"
+    },
+    {
+      "name": "mizusasi.net",
+      "comment": "水差し"
+    },
+    {
+      "name": "moraimon.com",
+      "comment": "もらいもん"
+    },
+    {
+      "name": "mu-sashi.com",
+      "comment": "宮本武蔵"
+    },
+    {
+      "name": "nukarumi.net",
+      "comment": "泥濘"
+    },
+    {
+      "name": "ohitashi.com",
+      "comment": "おひたし"
+    },
+    {
+      "name": "okitsune.com",
+      "comment": "御狐"
+    },
+    {
+      "name": "ongaeshi.biz",
+      "comment": "恩返し"
+    },
+    {
+      "name": "ran-maru.net",
+      "comment": "森蘭丸"
+    },
+    {
+      "name": "siromuku.com",
+      "comment": "白無垢"
+    },
+    {
+      "name": "soragoto.net",
+      "comment": "空言"
+    },
+    {
+      "name": "suki-ari.net",
+      "comment": "隙あり"
+    },
+    {
+      "name": "tamajiri.com",
+      "comment": "霊識"
+    },
+    {
+      "name": "the-ninja.jp",
+      "comment": "その忍者"
+    },
+    {
+      "name": "tiyogami.com",
+      "comment": "千代紙"
+    },
+    {
+      "name": "toshi-ie.com",
+      "comment": "前田利家"
+    },
+    {
+      "name": "tumabeni.com",
+      "comment": "爪紅"
+    },
+    {
+      "name": "turigane.com",
+      "comment": "釣鐘"
+    },
+    {
+      "name": "turukusa.com",
+      "comment": "蔓草"
+    },
+    {
+      "name": "tuzigiri.com",
+      "comment": "辻斬"
+    },
+    {
+      "name": "tuzikaze.com",
+      "comment": "旋風"
+    },
+    {
+      "name": "tyonmage.com",
+      "comment": "ちょんまげ"
+    },
+    {
+      "name": "uji-masa.com",
+      "comment": "北条氏政"
+    },
+    {
+      "name": "warabuki.net",
+      "comment": "藁葺"
+    },
+    {
+      "name": "yakigote.com",
+      "comment": "焼鏝"
+    },
+    {
+      "name": "yakiuchi.com",
+      "comment": "焼討ち"
+    },
+    {
+      "name": "yamanoha.com",
+      "comment": "山の端"
+    },
+    {
+      "name": "yokochou.com",
+      "comment": "横丁"
+    }
+  ],
+  "13": [
+    {
+      "name": "akazunoma.com",
+      "comment": "開かずの間"
+    },
+    {
+      "name": "ame-zaiku.com",
+      "comment": "飴細工"
+    },
+    {
+      "name": "bake-neko.net",
+      "comment": "化け猫"
+    },
+    {
+      "name": "chimanako.net",
+      "comment": "血眼"
+    },
+    {
+      "name": "dokkoisho.com",
+      "comment": "どっこいしょ"
+    },
+    {
+      "name": "donburako.com",
+      "comment": "ドンブラ粉"
+    },
+    {
+      "name": "edo-jidai.com",
+      "comment": "江戸時代"
+    },
+    {
+      "name": "hisa-hide.com",
+      "comment": "松永久秀"
+    },
+    {
+      "name": "jorougumo.com",
+      "comment": "女郎蜘蛛"
+    },
+    {
+      "name": "kage-tora.com",
+      "comment": "長尾景虎"
+    },
+    {
+      "name": "kagechiyo.net",
+      "comment": "影千代"
+    },
+    {
+      "name": "kinbyoubu.com",
+      "comment": "金屏風"
+    },
+    {
+      "name": "kinugoshi.net",
+      "comment": "絹ごし"
+    },
+    {
+      "name": "kiyo-masa.com",
+      "comment": "加藤清正"
+    },
+    {
+      "name": "kuchinawa.com",
+      "comment": "蛇"
+    },
+    {
+      "name": "monogoshi.com",
+      "comment": "物腰"
+    },
+    {
+      "name": "moto-nari.com",
+      "comment": "毛利元就"
+    },
+    {
+      "name": "moutounai.com",
+      "comment": "毛頭ない"
+    },
+    {
+      "name": "naga-masa.com",
+      "comment": "浅井長政"
+    },
+    {
+      "name": "namidaame.com",
+      "comment": "涙雨"
+    },
+    {
+      "name": "nao-shige.com",
+      "comment": "鍋島直茂"
+    },
+    {
+      "name": "nigamushi.net",
+      "comment": "苦虫"
+    },
+    {
+      "name": "ninja-web.net",
+      "comment": "忍者WEB"
+    },
+    {
+      "name": "nobu-naga.net",
+      "comment": "織田信長"
+    },
+    {
+      "name": "oboroduki.com",
+      "comment": "朧月"
+    },
+    {
+      "name": "ofuregaki.com",
+      "comment": "お触書"
+    },
+    {
+      "name": "otoshiana.com",
+      "comment": "落し穴"
+    },
+    {
+      "name": "sannasubi.com",
+      "comment": "三なすび"
+    },
+    {
+      "name": "shakunage.net",
+      "comment": "しゃくなげ"
+    },
+    {
+      "name": "shironuri.com",
+      "comment": "白塗"
+    },
+    {
+      "name": "soregashi.com",
+      "comment": "某"
+    },
+    {
+      "name": "soudesune.net",
+      "comment": "そうですねー"
+    },
+    {
+      "name": "suichu-ka.com",
+      "comment": "水中花"
+    },
+    {
+      "name": "syakuhati.com",
+      "comment": "尺八"
+    },
+    {
+      "name": "taka-kage.com",
+      "comment": "小早川隆景"
+    },
+    {
+      "name": "tirirenge.com",
+      "comment": "散り蓮華"
+    },
+    {
+      "name": "undeinosa.com",
+      "comment": "雲泥の差"
+    },
+    {
+      "name": "untokosho.com",
+      "comment": "うんとこしょ"
+    },
+    {
+      "name": "ushimairi.com",
+      "comment": "丑参り"
+    },
+    {
+      "name": "wa-sanbon.com",
+      "comment": "和三盆"
+    },
+    {
+      "name": "yahansugi.com",
+      "comment": "夜半過ぎ"
+    },
+    {
+      "name": "yuki-mura.net",
+      "comment": "真田幸村"
+    },
+    {
+      "name": "yukigesho.com",
+      "comment": "雪化粧"
+    }
+  ],
+  "14": [
+    {
+      "name": "ari-jigoku.com",
+      "comment": "蟻地獄"
+    },
+    {
+      "name": "bokunenjin.com",
+      "comment": "朴念仁"
+    },
+    {
+      "name": "chikouyore.com",
+      "comment": "近う寄れ"
+    },
+    {
+      "name": "choumusubi.com",
+      "comment": "蝶結び"
+    },
+    {
+      "name": "cyber-ninja.jp",
+      "comment": "平成忍者"
+    },
+    {
+      "name": "gionsyouja.com",
+      "comment": "祇園精舎"
+    },
+    {
+      "name": "goemonburo.com",
+      "comment": "五右衛門風呂"
+    },
+    {
+      "name": "hanagasumi.net",
+      "comment": "花霞"
+    },
+    {
+      "name": "hanagumori.com",
+      "comment": "花曇"
+    },
+    {
+      "name": "hanamizake.com",
+      "comment": "花見酒"
+    },
+    {
+      "name": "hebiichigo.com",
+      "comment": "蛇苺"
+    },
+    {
+      "name": "hide-yoshi.net",
+      "comment": "豊臣秀吉"
+    },
+    {
+      "name": "hujibakama.com",
+      "comment": "藤袴"
+    },
+    {
+      "name": "kage-tsuna.com",
+      "comment": "直江景綱"
+    },
+    {
+      "name": "kagebo-shi.com",
+      "comment": "影法師"
+    },
+    {
+      "name": "kakurezato.com",
+      "comment": "隠れ里"
+    },
+    {
+      "name": "kanashibari.jp",
+      "comment": "金縛り"
+    },
+    {
+      "name": "kane-tsugu.com",
+      "comment": "直江兼続"
+    },
+    {
+      "name": "katsu-yori.com",
+      "comment": "武田勝頼"
+    },
+    {
+      "name": "kemuridama.com",
+      "comment": "煙玉"
+    },
+    {
+      "name": "koiwazurai.com",
+      "comment": "恋煩い"
+    },
+    {
+      "name": "kumogakure.com",
+      "comment": "雲隠れ"
+    },
+    {
+      "name": "kurushiunai.jp",
+      "comment": "苦しうない"
+    },
+    {
+      "name": "manjushage.com",
+      "comment": "曼珠沙華"
+    },
+    {
+      "name": "mitsu-hide.com",
+      "comment": "明智光秀"
+    },
+    {
+      "name": "mitsu-nari.com",
+      "comment": "石田三成"
+    },
+    {
+      "name": "mizubasyou.com",
+      "comment": "水芭蕉"
+    },
+    {
+      "name": "moto-chika.com",
+      "comment": "長曾我部元親"
+    },
+    {
+      "name": "nabebugyou.com",
+      "comment": "鍋奉行"
+    },
+    {
+      "name": "ninja-mania.jp",
+      "comment": "忍者愛好家"
+    },
+    {
+      "name": "ootugomori.com",
+      "comment": "大晦"
+    },
+    {
+      "name": "otogirisou.com",
+      "comment": "弟切草"
+    },
+    {
+      "name": "shichihuku.com",
+      "comment": "七福"
+    },
+    {
+      "name": "shime-saba.com",
+      "comment": "しめさば"
+    },
+    {
+      "name": "shimo-yake.com",
+      "comment": "霜焼け"
+    },
+    {
+      "name": "shiriagari.com",
+      "comment": "尻上り"
+    },
+    {
+      "name": "sukimakaze.com",
+      "comment": "隙間風"
+    },
+    {
+      "name": "tabigeinin.com",
+      "comment": "旅芸人"
+    },
+    {
+      "name": "tada-katsu.com",
+      "comment": "本多忠勝"
+    },
+    {
+      "name": "tsuchigumo.com",
+      "comment": "土蜘蛛"
+    },
+    {
+      "name": "tubakurame.com",
+      "comment": "燕"
+    },
+    {
+      "name": "tutakazura.com",
+      "comment": "蔦葛"
+    },
+    {
+      "name": "yamagomori.com",
+      "comment": "山籠り"
+    },
+    {
+      "name": "yoshi-moto.com",
+      "comment": "今川義元"
+    },
+    {
+      "name": "yukihotaru.com",
+      "comment": "雪蛍"
+    },
+    {
+      "name": "yukimizake.net",
+      "comment": "雪見酒"
+    }
+  ],
+  "15": [
+    {
+      "name": "chitosedori.com",
+      "comment": "千歳鳥"
+    },
+    {
+      "name": "darumaotosi.com",
+      "comment": "達磨落し"
+    },
+    {
+      "name": "enokorogusa.com",
+      "comment": "狗尾草"
+    },
+    {
+      "name": "fuma-kotaro.com",
+      "comment": "風魔小太郎"
+    },
+    {
+      "name": "hatagashira.com",
+      "comment": "旗頭"
+    },
+    {
+      "name": "izakamakura.com",
+      "comment": "いざ鎌倉"
+    },
+    {
+      "name": "jyoukamachi.com",
+      "comment": "城下町"
+    },
+    {
+      "name": "kagennotuki.com",
+      "comment": "下弦の月"
+    },
+    {
+      "name": "kimodameshi.com",
+      "comment": "肝試し"
+    },
+    {
+      "name": "maeda-keiji.com",
+      "comment": "前田慶次"
+    },
+    {
+      "name": "mameshibori.net",
+      "comment": "豆絞り"
+    },
+    {
+      "name": "nekonikoban.org",
+      "comment": "猫に小判"
+    },
+    {
+      "name": "odaikansama.com",
+      "comment": "お代官様"
+    },
+    {
+      "name": "okoshi-yasu.com",
+      "comment": "お越しやす"
+    },
+    {
+      "name": "okoshi-yasu.net",
+      "comment": "おこしやす"
+    },
+    {
+      "name": "ooban-koban.com",
+      "comment": "大判小判"
+    },
+    {
+      "name": "sensyuuraku.com",
+      "comment": "千秋楽"
+    },
+    {
+      "name": "shikanosuke.net",
+      "comment": "山中鹿之介"
+    },
+    {
+      "name": "shinobiashi.com",
+      "comment": "忍び足"
+    },
+    {
+      "name": "sodenoshita.com",
+      "comment": "袖の下"
+    },
+    {
+      "name": "sonnabakana.com",
+      "comment": "そんな馬鹿な"
+    },
+    {
+      "name": "syarasoujyu.com",
+      "comment": "沙羅双樹"
+    },
+    {
+      "name": "syoutikubai.com",
+      "comment": "松竹梅"
+    },
+    {
+      "name": "takara-bune.net",
+      "comment": "宝船"
+    },
+    {
+      "name": "warabimochi.net",
+      "comment": "蕨餅"
+    },
+    {
+      "name": "yangotonaki.com",
+      "comment": "やんごとなき"
+    },
+    {
+      "name": "yoshi-tsugu.com",
+      "comment": "大谷吉継"
+    },
+    {
+      "name": "yukishigure.com",
+      "comment": "雪時雨"
+    }
+  ],
+  "16": [
+    {
+      "name": "butanishinju.com",
+      "comment": "豚に真珠"
+    },
+    {
+      "name": "choitoippuku.com",
+      "comment": "ちょいと一服"
+    },
+    {
+      "name": "garyoutensei.com",
+      "comment": "画竜点睛"
+    },
+    {
+      "name": "houkou-onchi.com",
+      "comment": "方向音痴"
+    },
+    {
+      "name": "ichiya-boshi.net",
+      "comment": "一夜干し"
+    },
+    {
+      "name": "imawamukashi.com",
+      "comment": "今は昔"
+    },
+    {
+      "name": "imodurushiki.com",
+      "comment": "芋づる式"
+    },
+    {
+      "name": "jougennotuki.com",
+      "comment": "上弦の月"
+    },
+    {
+      "name": "kacchaokkana.com",
+      "comment": "買っちゃおーかなー"
+    },
+    {
+      "name": "koborezakura.com",
+      "comment": "零れ桜"
+    },
+    {
+      "name": "momijioroshi.com",
+      "comment": "紅葉卸"
+    },
+    {
+      "name": "nemiminimizu.com",
+      "comment": "寝耳に水"
+    },
+    {
+      "name": "sankinkoutai.com",
+      "comment": "参勤交代"
+    },
+    {
+      "name": "sara-yashiki.com",
+      "comment": "皿屋敷"
+    },
+    {
+      "name": "shiteyattari.com",
+      "comment": "してやったり"
+    },
+    {
+      "name": "syogyoumujou.com",
+      "comment": "諸行無常"
+    },
+    {
+      "name": "tsunokakushi.com",
+      "comment": "角隠し"
+    },
+    {
+      "name": "turubeotoshi.com",
+      "comment": "釣瓶落し"
+    }
+  ],
+  "17": [
+    {
+      "name": "hatiju-hatiya.com",
+      "comment": "八十八夜"
+    },
+    {
+      "name": "kachoufuugetu.net",
+      "comment": "花鳥風月"
+    },
+    {
+      "name": "kibisuwokaesu.com",
+      "comment": "踵を返す"
+    },
+    {
+      "name": "konohashigure.com",
+      "comment": "木の葉時雨"
+    },
+    {
+      "name": "kusarikatabira.jp",
+      "comment": "鎖帷子"
+    },
+    {
+      "name": "noppikinaranu.com",
+      "comment": "のっぴきならぬ"
+    },
+    {
+      "name": "sengoku-jidai.com",
+      "comment": "戦国時代"
+    },
+    {
+      "name": "shidareyanagi.com",
+      "comment": "枝垂れ柳"
+    },
+    {
+      "name": "shirikakusazu.com",
+      "comment": "尻隠さず"
+    },
+    {
+      "name": "sokowonantoka.com",
+      "comment": "其処を何とか"
+    },
+    {
+      "name": "sokushinbutsu.com",
+      "comment": "即身仏"
+    },
+    {
+      "name": "yohamanzokuja.com",
+      "comment": "余は満足じゃ"
+    },
+    {
+      "name": "yokinihakarae.com",
+      "comment": "良きに計らえ"
+    },
+    {
+      "name": "yumenogotoshi.com",
+      "comment": "夢の如し"
+    }
+  ],
+  "18": [
+    {
+      "name": "horemitakotoka.com",
+      "comment": "ホレ見たことか"
+    },
+    {
+      "name": "kirisute-gomen.com",
+      "comment": "斬捨て御免"
+    },
+    {
+      "name": "mitarashidango.com",
+      "comment": "みたらしダンゴ"
+    },
+    {
+      "name": "nemachinotsuki.com",
+      "comment": "寝待の月"
+    },
+    {
+      "name": "ohyakudo-mairi.com",
+      "comment": "お百度参り"
+    },
+    {
+      "name": "okunohosomichi.net",
+      "comment": "奥の細道"
+    },
+    {
+      "name": "shikisokuzekuu.net",
+      "comment": "色即是空"
+    },
+    {
+      "name": "tenohiragaeshi.com",
+      "comment": "手のひら返し"
+    },
+    {
+      "name": "waremowaremoto.com",
+      "comment": "我も我れもと"
+    }
+  ],
+  "19": [
+    {
+      "name": "yomibitoshirazu.com",
+      "comment": "詠み人知らず"
+    }
+  ],
+  "20": [
+    {
+      "name": "karakuri-yashiki.com",
+      "comment": "絡繰り屋敷"
+    }
+  ],
+  "21": [
+    {
+      "name": "kakukaku-sikajika.com",
+      "comment": "斯く斯く然々"
+    },
+    {
+      "name": "onushimowaruyonou.com",
+      "comment": "おぬしも悪よのう"
+    },
+    {
+      "name": "shimazu-yoshihiro.net",
+      "comment": "島津義弘"
+    }
+  ]
+}
