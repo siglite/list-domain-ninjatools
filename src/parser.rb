@@ -4,8 +4,19 @@
 require 'bundler/setup'
 require 'http'
 require 'oga'
+require 'json'
 
-Domain = Struct.new(:name, :length, :comment)
+class Domain < Struct.new(:name, :comment)
+  include Comparable
+
+  def <=> other
+    name <=> other.name
+  end
+
+  def to_json(*arg)
+    { name: name, comment: comment }.to_json(*arg)
+  end
+end
 
 def http_stream(url)
   Enumerator.new do |e|
@@ -16,47 +27,32 @@ def http_stream(url)
 end
 
 def parse_domain(stream, selector, regexp)
-  Oga.parse_html(stream).css(selector).map do |e|
-    if regexp =~ e.text then
-      length = $1.length
-      Domain.new($1, length, $2)
+  Oga.parse_html(stream).css(selector).map do |elem|
+    if regexp =~ elem.text then
+      Domain.new($1, $2)
     else
-      STDERR.puts "Not match: #{e.text}"
-      exit
+      raise "[Error] Not match: #{elem.text}"
     end
   end
 end
 
-def generate_table(domains)
-  min, max = domains.minmax_by {|e| e.length}.map {|e| e.length}
-
-  (min..max).map do |n|
-    dn = domains.select { |e| e.length == n }.sort_by { |e| e.name }
-    next if dn.length == 0
-
-    header = <<-EOS
-## #{n} characters
-
-| domain | comment |
-|:------:|:--------|
-    EOS
-
-    s = dn.map { |e| "| `#{e.name}` | #{e.comment} |" }.join("\n")
-
-    header + s + "\n"
-  end.compact.join("\n")
+def generate_json(domains)
+  JSON.pretty_generate(
+    domains.group_by { |e| e.name.length }.sort.map { |k,v| [k, v.sort] }.to_h
+  )
 end
 
-regex  = /\A([\w\.-]+) ?（(.+)）\Z/
 hp   = http_stream("https://www.ninja.co.jp/hp/selectable-domain")
 blog = http_stream("https://www.ninja.co.jp/blog/selectable-domain")
+re   = /\A([\w\.-]+) ?（(.+)）\Z/
+css  = "td.selectable"
 
-File.open("doc/ninja_hp.md", "w") do |f|
-  f.write "# 忍者ホームページ - ドメインリスト\n"
-  f.write generate_table(parse_domain(hp, "td", regex))
+File.open("data/ninja_hp.json", "w") do |f|
+  domains = parse_domain(hp, css, re)
+  f.write generate_json(domains)
 end
 
-File.open("doc/ninja_blog.md", "w") do |f|
-  f.write "# 忍者ブログ - ドメインリスト\n"
-  f.write generate_table(parse_domain(blog, "td", regex))
+File.open("data/ninja_blog.json", "w") do |f|
+  domains = parse_domain(blog, css, re)
+  f.write generate_json(domains)
 end

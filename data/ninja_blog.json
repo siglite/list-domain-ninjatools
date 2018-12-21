@@ -1,0 +1,430 @@
+{
+  "8": [
+    {
+      "name": "3rin.net",
+      "comment": "みりん"
+    },
+    {
+      "name": "atgj.net",
+      "comment": "アットグッジョブ"
+    },
+    {
+      "name": "gjgd.net",
+      "comment": "グッジョブグッジョブ"
+    },
+    {
+      "name": "gjpw.net",
+      "comment": "グッジョブパワー"
+    },
+    {
+      "name": "iku4.com",
+      "comment": "いくよ"
+    },
+    {
+      "name": "ky-3.net",
+      "comment": "けーわいさん"
+    },
+    {
+      "name": "ni-3.net",
+      "comment": "にーさん"
+    },
+    {
+      "name": "o-oi.net",
+      "comment": "おーおい （o-oi）"
+    },
+    {
+      "name": "tou3.com",
+      "comment": "とうさん"
+    }
+  ],
+  "9": [
+    {
+      "name": "99ing.net",
+      "comment": "クッキング"
+    },
+    {
+      "name": "go-th.net",
+      "comment": "ゴス"
+    },
+    {
+      "name": "guhaw.com",
+      "comment": "ぐはｗ"
+    },
+    {
+      "name": "ko-me.com",
+      "comment": "お米"
+    },
+    {
+      "name": "kuizu.net",
+      "comment": "クイズ"
+    },
+    {
+      "name": "omaww.net",
+      "comment": "おまｗｗ"
+    },
+    {
+      "name": "p-kin.net",
+      "comment": "P禁"
+    },
+    {
+      "name": "pazru.com",
+      "comment": "パズル"
+    },
+    {
+      "name": "ria10.com",
+      "comment": "リア充"
+    },
+    {
+      "name": "syoyu.net",
+      "comment": "醤油"
+    },
+    {
+      "name": "v-kei.net",
+      "comment": "ヴィジュアル系"
+    }
+  ],
+  "10": [
+    {
+      "name": "bijual.com",
+      "comment": "ビジュアル"
+    },
+    {
+      "name": "ni-moe.com",
+      "comment": "〜に萌え"
+    }
+  ],
+  "11": [
+    {
+      "name": "7narabe.net",
+      "comment": "７並べ"
+    },
+    {
+      "name": "animech.net",
+      "comment": "アニメちゃんねる"
+    },
+    {
+      "name": "cooklog.net",
+      "comment": "クッキングブログ"
+    },
+    {
+      "name": "coslife.net",
+      "comment": "コスプレ生活"
+    },
+    {
+      "name": "dou-jin.com",
+      "comment": "同人"
+    },
+    {
+      "name": "edoblog.net",
+      "comment": "江戸ブログ"
+    },
+    {
+      "name": "en-grey.com",
+      "comment": "灰色の"
+    },
+    {
+      "name": "game-ss.com",
+      "comment": "ゲームのSS"
+    },
+    {
+      "name": "gg-blog.com",
+      "comment": "good gameブログ"
+    },
+    {
+      "name": "iga-log.com",
+      "comment": "伊賀ブログ"
+    },
+    {
+      "name": "indiesj.com",
+      "comment": "インディーズ"
+    },
+    {
+      "name": "mmo-fps.com",
+      "comment": "MMO FPS"
+    },
+    {
+      "name": "or-hell.com",
+      "comment": "〜か地獄か"
+    },
+    {
+      "name": "ryorika.com",
+      "comment": "料理家"
+    },
+    {
+      "name": "tosalog.com",
+      "comment": "土佐ブログ"
+    }
+  ],
+  "12": [
+    {
+      "name": "animegoe.com",
+      "comment": "アニメ声"
+    },
+    {
+      "name": "bangalog.com",
+      "comment": "バンギャのブログ"
+    },
+    {
+      "name": "bangofan.com",
+      "comment": "晩御飯が好き"
+    },
+    {
+      "name": "blog-fps.com",
+      "comment": "ブログFPS"
+    },
+    {
+      "name": "blog-mmo.com",
+      "comment": "ブログMMO"
+    },
+    {
+      "name": "blog-rpg.com",
+      "comment": "ブログRPG"
+    },
+    {
+      "name": "blog-sim.com",
+      "comment": "シミュレーションブログ"
+    },
+    {
+      "name": "cos-live.com",
+      "comment": "コスプレライブ"
+    },
+    {
+      "name": "kai-seki.net",
+      "comment": "懐石"
+    },
+    {
+      "name": "kurofuku.com",
+      "comment": "黒服"
+    },
+    {
+      "name": "kyotolog.net",
+      "comment": "京都ブログ"
+    },
+    {
+      "name": "mamagoto.com",
+      "comment": "ままごと"
+    },
+    {
+      "name": "mangadou.net",
+      "comment": "漫画道"
+    },
+    {
+      "name": "mangalog.com",
+      "comment": "漫画ブログ"
+    },
+    {
+      "name": "no-mania.com",
+      "comment": "〜のマニア"
+    },
+    {
+      "name": "sakeblog.net",
+      "comment": "酒ブログ"
+    },
+    {
+      "name": "take-uma.net",
+      "comment": "竹馬"
+    },
+    {
+      "name": "zoku-sei.com",
+      "comment": "〜属性"
+    }
+  ],
+  "13": [
+    {
+      "name": "asukablog.net",
+      "comment": "飛鳥ブログ"
+    },
+    {
+      "name": "cos-mania.net",
+      "comment": "コスプレマニア"
+    },
+    {
+      "name": "dankanoko.com",
+      "comment": "段鹿の子"
+    },
+    {
+      "name": "fukuwarai.net",
+      "comment": "福笑い"
+    },
+    {
+      "name": "game-waza.net",
+      "comment": "ゲームの技"
+    },
+    {
+      "name": "nari-kiri.com",
+      "comment": "なりきり"
+    },
+    {
+      "name": "sugo-roku.com",
+      "comment": "双六"
+    },
+    {
+      "name": "visualfan.com",
+      "comment": "ヴィジュアルファン"
+    },
+    {
+      "name": "wa-syo-ku.com",
+      "comment": "和食"
+    },
+    {
+      "name": "ya-gasuri.com",
+      "comment": "矢絣"
+    }
+  ],
+  "14": [
+    {
+      "name": "anime-life.com",
+      "comment": "アニメ生活"
+    },
+    {
+      "name": "anime-navi.net",
+      "comment": "アニメナビ"
+    },
+    {
+      "name": "ichi-matsu.net",
+      "comment": "市松模様"
+    },
+    {
+      "name": "janken-pon.net",
+      "comment": "じゃんけんぽん"
+    },
+    {
+      "name": "kakuren-bo.com",
+      "comment": "かくれんぼ"
+    },
+    {
+      "name": "koushijima.com",
+      "comment": "格子縞"
+    },
+    {
+      "name": "misujitate.com",
+      "comment": "三筋縦"
+    },
+    {
+      "name": "sankuzushi.com",
+      "comment": "算崩し・三崩し"
+    },
+    {
+      "name": "side-story.net",
+      "comment": "SS・サイドストーリー"
+    },
+    {
+      "name": "tsuyushiba.com",
+      "comment": "露芝"
+    },
+    {
+      "name": "tyoshublog.com",
+      "comment": "長州ブログ"
+    },
+    {
+      "name": "yamatoblog.net",
+      "comment": "大和ブログ"
+    },
+    {
+      "name": "yotsumeyui.com",
+      "comment": "四つ目結"
+    }
+  ],
+  "15": [
+    {
+      "name": "anime-festa.com",
+      "comment": "アニメ祭り"
+    },
+    {
+      "name": "anime-japan.net",
+      "comment": "日本のアニメ"
+    },
+    {
+      "name": "anime-movie.net",
+      "comment": "アニメ映画"
+    },
+    {
+      "name": "anime-voice.com",
+      "comment": "アニメ声"
+    },
+    {
+      "name": "blog.shinobi.jp",
+      "comment": "オリジナルドメイン"
+    },
+    {
+      "name": "komochijima.com",
+      "comment": "子持ち縞"
+    },
+    {
+      "name": "moe-cosplay.com",
+      "comment": "萌え系コスプレ"
+    },
+    {
+      "name": "satsumablog.com",
+      "comment": "薩摩ブログ"
+    },
+    {
+      "name": "visualshoxx.net",
+      "comment": "ヴィジュアルショック"
+    }
+  ],
+  "16": [
+    {
+      "name": "anime-report.com",
+      "comment": "アニメのレポート"
+    },
+    {
+      "name": "cosplay-navi.com",
+      "comment": "コスプレナビ"
+    },
+    {
+      "name": "futatsutomoe.com",
+      "comment": "二つ巴・双級巴"
+    },
+    {
+      "name": "kamakurablog.com",
+      "comment": "鎌倉ブログ"
+    }
+  ],
+  "17": [
+    {
+      "name": "anime-cosplay.com",
+      "comment": "アニメのコスプレ"
+    },
+    {
+      "name": "anime-ranking.net",
+      "comment": "アニメのランキング"
+    },
+    {
+      "name": "cosplay-festa.com",
+      "comment": "コスプレ祭り"
+    },
+    {
+      "name": "cosplay-japan.net",
+      "comment": "日本のコスプレ"
+    },
+    {
+      "name": "kagome-kagome.com",
+      "comment": "かごめかごめ"
+    },
+    {
+      "name": "manga-cosplay.com",
+      "comment": "漫画のコスプレ"
+    }
+  ],
+  "18": [
+    {
+      "name": "cosplay-report.com",
+      "comment": "コスプレのレポート"
+    },
+    {
+      "name": "hyakunin-isshu.net",
+      "comment": "百人一首"
+    },
+    {
+      "name": "sekigaharablog.com",
+      "comment": "関ヶ原ブログ"
+    }
+  ],
+  "22": [
+    {
+      "name": "darumasangakoronda.com",
+      "comment": "だるまさんが転んだ"
+    }
+  ]
+}

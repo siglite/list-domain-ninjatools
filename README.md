@@ -4,12 +4,12 @@
 
 ## Lists
 
-- [忍者ホームページ](https://github.com/siglite/list-domain-ninjatools/blob/master/doc/ninja_hp.md)
-- [忍者ブログ](https://github.com/siglite/list-domain-ninjatools/blob/master/doc/ninja_blog.md)
+- [忍者ホームページ](https://github.com/siglite/ninjatools-domain-list/blob/master/data/ninja_hp.json)
+- [忍者ブログ](https://github.com/siglite/ninjatools-domain-list/blob/master/data/ninja_blog.json)
 
 ## License
 
-MIT License
+MIT
 
 ## Author
 
